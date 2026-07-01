@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+.pytest_cache/
+
+# OS/IDE
+.DS_Store
+.vscode/
+.idea/
+*.swp
+
+# Logs and Data
+*.log
+*.tmp
+data/
+models/

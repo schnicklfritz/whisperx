@@ -1,0 +1,13 @@
+.git
+.gitignore
+.github/
+.venv/
+venv/
+data/
+models/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.dockerignore
+Dockerfile
